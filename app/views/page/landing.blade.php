@@ -73,7 +73,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Accommodation Details</h2>
+                    <h2 class="section-heading"><i class="fa fa-bed"></i> | Accommodation Details</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -221,9 +221,10 @@
            
             <div class="col-lg-6 col-lg-offset-3 col-sm-12 text-center">
                  <div class="call-to-action">
-                    <h2><i class="fa fa-list-ul"></i> | Register</h2>
+                    <h2><i class="fa fa-book"></i> | Register</h2>
                     <hr>
                 </div>
+                <!-- Scraped due to IITMAA Payment Gateway 
 		        <form action="{{ URL::route('landing-pyt-default-post') }}" class="" method="post">
                   
                   <div class="form-group">
@@ -282,7 +283,27 @@
 	              {{ Form::token() }}    
 
                 </form>
-               
+                -->
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-lg-offset-2 col-md-6 text-center">
+                        <div class="service-box">
+                            <i class="fa fa-4x fa-credit-card wow bounceIn"></i>
+                            <h3>Via Payment Gateway</h3>
+                            <a href="http://www.iitmaa.org/iitmaa/payment/eventpayment.php?id=1" class="btn btn-default btn-xl wow tada" target="_alt">Register</a>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 text-center">
+                        <div class="service-box">
+                            <i class="fa fa-4x fa-university wow bounceIn" data-wow-delay=".1s"></i>
+                            <h3>Via NEFT Bank Transfer</h3>
+                            <a href="http://iitmaa.org/insertform.php" class="btn btn-default btn-xl wow tada" target="_alt">Register</a>
+                            
+                        </div>
+                    </div>                
+                </div>
             </div>
         </div>
     </aside>
