@@ -289,19 +289,18 @@
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-2 col-md-6 text-center">
                         <div class="service-box">
-                            <i class="fa fa-4x fa-credit-card wow bounceIn"></i>
-                            <h3>Via Payment Gateway</h3>
-                            <a href="http://www.iitmaa.org/iitmaa/payment/eventpayment.php?id=1" class="btn btn-default btn-xl wow tada" target="_alt">Register</a>
-                            
+                            <i class="fa fa-4x fa-university wow bounceIn" data-wow-delay=".1s"></i>
+                            <h3>Via NEFT Bank Transfer</h3>
+                            <a href="http://iitmaa.org/insertform.php" class="btn btn-default btn-xl wow tada" target="_alt">Register</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 text-center">
                         <div class="service-box">
-                            <i class="fa fa-4x fa-university wow bounceIn" data-wow-delay=".1s"></i>
-                            <h3>Via NEFT Bank Transfer</h3>
-                            <a href="http://iitmaa.org/insertform.php" class="btn btn-default btn-xl wow tada" target="_alt">Register</a>
-                            
+                            <i class="fa fa-4x fa-credit-card wow bounceIn"></i>
+                            <h3>Via Payment Gateway</h3>
+                            <a href="http://www.iitmaa.org/iitmaa/payment/eventpayment.php?id=1" class="btn btn-default btn-xl wow tada disabled" target="_alt">Under Construction</a>
                         </div>
+                        
                     </div>                
                 </div>
             </div>
