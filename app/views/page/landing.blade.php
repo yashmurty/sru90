@@ -298,7 +298,7 @@
                         <div class="service-box">
                             <i class="fa fa-4x fa-credit-card wow bounceIn"></i>
                             <h3>Via Payment Gateway</h3>
-                            <a href="http://www.iitmaa.org/iitmaa/payment/eventpayment.php?id=1" class="btn btn-default btn-xl wow tada disabled" target="_alt">Under Construction</a>
+                            <a href="http://www.iitmaa.org/iitmaa/payment/eventpayment.php?id=1" class="btn btn-default btn-xl wow tada" target="_alt">Register</a>
                         </div>
                         
                     </div>                
