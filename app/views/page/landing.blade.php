@@ -54,7 +54,10 @@
 
                     <h3><i class="fa fa-calendar"></i> | 28th December</h3>
                     <ul class="text-left" style="font-size:16px;">
-                        <li>Alumni Connect via series of talks at IC&SR until 2 p.m.</li>
+                        <li>Alumni Connect via series of talks at IC&SR until 2 p.m. </li>
+                        <a class="btn btn-sm btn-default" href="{{ URL::asset('assets/REUNIONDAY2015_Rev1.docx.pdf') }}" target="+alt">
+                        <i class="fa fa-cloud-download"></i> | View More Details</a>
+                         about the talks.
                         <li>Evening Time, depart to Mahabalipuram for stay at Radisson Temple Bay Resort</li>
                         <li>Late Night program with DJ</li>
                     </ul>
