@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="UTF-8">
-        <meta name="description" content="IIT Madras Alumni Connect">
+        <meta name="description" content="IIT Madras Silver Jubilee for Batch of 1990">
         <meta name="keywords" content="IIT,Madras,Alumni,Connect">
         <meta name="author" content="Yash Murty">
 
